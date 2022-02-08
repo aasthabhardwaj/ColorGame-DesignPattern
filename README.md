@@ -1,5 +1,5 @@
 # ColorGame-DesignPattern
-created a Colour Game using  Design Pattern - Strategy and Factory
+created a Colour Game using  Design Patterns
 
 
 
